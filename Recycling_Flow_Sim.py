@@ -21,7 +21,7 @@ Desired_lperha=600 #Desired liquid discharge rate l/ha
 Qin=50 #Maximum Flow rate of the clean water into the tank when solenoid is open
 Tv=20 #tank size /l
 R=0.2# Recycling rate /Ratio 0->1 (Overwritten by recycling vector if left uncommented)
-Rini=0.5 #Recycling initial guess /Ratio 0->1
+Rini=0.6 #Recycling initial guess /Ratio 0->1
 
 
 
