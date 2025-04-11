@@ -140,7 +140,7 @@ plt.ylim((0, 0.4))
 #################Put table in plot#######################
 data = [[Desired_kgperha, Actualkgperha, Perc_error]]
 
-col_labels = ['Desired Application/ha', 'Actual Application/ha', '%error']
+col_labels = ['Desired Application/ha', 'Actual Application/ha', '% Error']
 row_labels = ['Values']
 table_vals = [[Desired_kgperha, Actualkgperha, Perc_error]]
 #plotting
